@@ -21,4 +21,4 @@ step-4-> run command (npm run dev)
 
 step-5-> open browser and type http://localhost:9002/
 
-step-6-> the file which u stored earliar can be used for test cases 
+step-6-> the file which you stored earliar can be used for test cases 
