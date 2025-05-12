@@ -8,7 +8,7 @@ By automating and simplifying the complex process of steganographic analysis, th
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-create a Steganographic image,audio,video files using hexeditor personally I'll suggest you(https://hexed.it/)this web site their are keywords( malware keywords.txt) which you can insert and the end of the file and save them in different folder when you deploy the project you can use them as test cases 
+create a Steganographic image,audio,video files using hexeditor personally I'll suggest you(https://hexed.it/) this web site their are keywords( malware keywords.txt) which you can insert and the end of the file and save them in different folder when you deploy the project you can use them as test cases 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 step-1-> download the Steganography Analyzer zip file and extract the file on desktop or your personal space
