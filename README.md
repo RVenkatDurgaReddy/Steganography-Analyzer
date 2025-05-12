@@ -12,8 +12,13 @@ create a Steganographic image,audio,video files using hexeditor personally I'll 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 step-1-> download the Steganography Analyzer zip file and extract the file on desktop or your personal space
+
 step-2-> open the folder in cmd 
+
 step-3-> install the required files(npm install)
+
 step-4-> run command (npm run dev)
+
 step-5-> open browser and type http://localhost:9002/
+
 step-6-> the file which u stored earliar can be used for test cases 
